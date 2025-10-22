@@ -1,0 +1,14 @@
+C:\Users\53658369876\Desktop\BackEndMoura\While\bin\Debug\net9.0\While.exe
+C:\Users\53658369876\Desktop\BackEndMoura\While\bin\Debug\net9.0\While.deps.json
+C:\Users\53658369876\Desktop\BackEndMoura\While\bin\Debug\net9.0\While.runtimeconfig.json
+C:\Users\53658369876\Desktop\BackEndMoura\While\bin\Debug\net9.0\While.dll
+C:\Users\53658369876\Desktop\BackEndMoura\While\bin\Debug\net9.0\While.pdb
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\While.AssemblyInfoInputs.cache
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\While.AssemblyInfo.cs
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\While.csproj.CoreCompileInputs.cache
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\While.dll
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\refint\While.dll
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\While.pdb
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\While.genruntimeconfig.cache
+C:\Users\53658369876\Desktop\BackEndMoura\While\obj\Debug\net9.0\ref\While.dll
