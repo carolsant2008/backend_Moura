@@ -1,0 +1,10 @@
+@using Microsoft.AspNetCore.Http.Features
+<h1>Listar Nomes</h1>
+
+<p>@ViewBag.Teste</p>
+
+<ul>
+    @foreach (var item in ViewBag.nomes){
+        <li>@item</li>
+    }
+</ul>
