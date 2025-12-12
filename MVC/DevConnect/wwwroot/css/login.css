@@ -1,0 +1,81 @@
+main {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main>div {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+form {
+    /* background-color: beige; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 3%;
+}
+
+.formulario-botao-roxo {
+    width: 100%;
+}
+
+.formulario-campos {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 5px;
+
+}
+
+
+
+form>p {
+    text-transform: uppercase;
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-cinza-escuro);
+}
+
+form>a, #secao-cadastro>p>a {
+    color: var(--cor-azul);
+    font-size: var(--tamanho-fonte-sm);
+    text-decoration: none;
+}
+
+#secao-cadastro>p{
+    color: var(--cor-cinza-escuro);
+    font-size: var(--tamanho-fonte-md);
+}
+
+.estilo-formulario {
+  max-width: 342px;
+}
+
+#secao-cadastro {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main>div>p {
+    color: var(--cor-preto);
+    font-size: var(--tamanho-fonte-sm);
+}
+
+#secao-instalacao {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
